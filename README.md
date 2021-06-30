@@ -1,5 +1,7 @@
 # ✨ soupcodez-blog ✨
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dfe8b3f1-3f5c-4f7e-8c9d-2175ad67b7d4/deploy-status)](https://app.netlify.com/sites/soupcodez-blog/deploys)
+
 <img src="https://themes.stackbit.com/images/ampersand-demo-1024x768.png" width="600">
 
 This is a [Gatsby](https://gatsbyjs.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
